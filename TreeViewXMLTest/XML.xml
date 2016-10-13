@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item>
+    <type>A</type>
+    <weight>11</weight>
+    <length>111</length>
+    <volts>110</volts>
+    <aged>1</aged>
+    <old>True</old>
+  </item>
+
+  <item>
+    <type>B</type>
+    <weight>22</weight>
+    <length>222</length>
+    <volts>220</volts>
+    <aged>2</aged>
+    <old>False</old>
+  </item>
+
+</items>
